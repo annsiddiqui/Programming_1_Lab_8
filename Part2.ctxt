@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ \n\n\ @author\ Qurrat-al-Ain\ Siddiqui\n\ \n
+comment1.params=
+comment1.target=Part2()
+comment2.params=
+comment2.target=double\ calculateAverage()
+comment3.params=average
+comment3.target=void\ printMessage(double)
+numComments=4
